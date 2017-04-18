@@ -8,7 +8,7 @@ module.exports = {
             }
         });
         return cpt;
-    }
+    },
 
 
     getNbNotesAsync: function(callbackResult) {

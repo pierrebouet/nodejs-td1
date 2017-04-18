@@ -67,9 +67,9 @@ console.log('Exercice4');
 console.log('Asynchrone');
 console.log('  ');
 
-/*exerciceQuatre.getNbNotes(function(resultat) {
+exerciceQuatre.getNbNotes(function(resultat) {
     console.log(resultat);
-});*/
+});
 
 console.log('  ');
 console.log('Exercice5');
