@@ -1,0 +1,22 @@
+{
+  "name": "td1",
+  "version": "1.0.0",
+  "description": "pierrebouet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierrebouet/nodejs-td1.git"
+  },
+  "author": "pierrebouet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierrebouet/nodejs-td1/issues"
+  },
+  "homepage": "https://github.com/pierrebouet/nodejs-td1#readme",
+  "dependencies": {
+    "async": "^2.3.0"
+  }
+}
