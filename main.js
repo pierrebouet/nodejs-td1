@@ -3,7 +3,7 @@ var exerciceDeux = require('./exercice2.js');
 var exerciceTrois = require('./exercice3.js');
 var exerciceQuatre = require('./exercice4.js');
 var exerciceCinq = require('./exercice5.js');
-var nombre = [1,15,16,20,4,17,9]
+var nombre = [1,15,16,20,4,17,9];
 
 console.log('  ');
 console.log('Exercice1');
@@ -67,9 +67,9 @@ console.log('Exercice4');
 console.log('Asynchrone');
 console.log('  ');
 
-exerciceQuatre.getNbNotes(function(resultat) {
+/*exerciceQuatre.getNbNotes(function(resultat) {
     console.log(resultat);
-});
+});*/
 
 console.log('  ');
 console.log('Exercice5');
